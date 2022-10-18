@@ -20,11 +20,11 @@
   "dependencies": {
     "abac-backend": "latest",
     "async": "~0.2.10",
-    "underscore": "~1.5.2",
+    "underscore": "^1.13.6",
     "util": "~0.10.3"
   },
   "devDependencies": {
-    "mocha": "~1.17.1",
-    "chai": "~1.9.0"
+    "chai": "~1.9.0",
+    "mocha": "^10.1.0"
   }
 }
